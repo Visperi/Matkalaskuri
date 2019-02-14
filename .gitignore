@@ -1,0 +1,7 @@
+.idea/
+*__pycache__/
+User_files/
+LICENCE*
+*.ini
+testing.py
+testing2.py

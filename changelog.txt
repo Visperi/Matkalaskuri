@@ -1,0 +1,5 @@
+- Korjattiin bugi, joka aiheutti ohjelman kaatumisen tarkastellessa listaa jossa ei ole matkoja
+- Kirjattavien matkojen minimipituudeksi asetettu 0.1 km
+- Siirrettiin tavoitetiedot matkatiedostoon
+- Lisättiin mahdollisuus vaihtaa tiedostoa
+- Lisättiin mahdollisuus luoda uusia tiedostoja matkoille
